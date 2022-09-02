@@ -1,2 +1,2 @@
-# primeiroreposit-rio
+# primeirorepositório
 site social (anciedade)
